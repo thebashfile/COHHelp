@@ -3,8 +3,8 @@ Downgrade to 1909 **REQUIRES YOU TO WIPE YOUR SSD/HDD**
 
 # Requirements
 - USB (8GB+)
-- Windows ISO Downloader (In folder)
-- Rufus Bootable USB Utility (In folder)
+- Windows ISO Downloader (In files above)
+- Rufus Bootable USB Utility (In files above)
 
 # Part I
 ```
